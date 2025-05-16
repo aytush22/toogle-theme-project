@@ -1,0 +1,36 @@
+
+mini-theme-project/node_modules/
+mini-theme-project/build/
+mini-theme-project/dist/
+
+# Logs
+mini-theme-project/npm-debug.log*
+mini-theme-project/yarn-debug.log*
+mini-theme-project/yarn-error.log*
+
+# Environment variables
+mini-theme-project/.env
+mini-theme-project/.env.local
+mini-theme-project/.env.development.local
+mini-theme-project/.env.test.local
+mini-theme-project/.env.production.local
+
+# Editor settings
+mini-theme-project/.vscode/
+mini-theme-project/.idea/
+
+# OS junk
+mini-theme-project/.DS_Store
+mini-theme-project/Thumbs.db
+
+# Testing
+mini-theme-project/coverage/
+mini-theme-project/*.lcov
+
+# TypeScript cache
+mini-theme-project/*.tsbuildinfo
+
+# Vite / Next.js / Parcel cache
+mini-theme-project/.cache/
+mini-theme-project/.vite/
+mini-theme-project/.next/
